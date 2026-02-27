@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gitlytics Dashboard
 
 A beautiful, production-ready GitHub analytics dashboard built with React, Vite, and Recharts.
