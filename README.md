@@ -166,4 +166,3 @@ MIT License - feel free to use this project for personal or commercial purposes.
 =======
 # Gitlytics
 Gitlytics Dashboard is a React-based analytics tool that visualizes GitHub repository metrics through interactive charts, offering insights into commits, contributors, issues, and pull requests.
->>>>>>> 84103d10180eca79d2b81866f444587cce3717ed
